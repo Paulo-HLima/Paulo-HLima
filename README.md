@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning C; C#; C++
 - 💞️ I’m looking to collaborate on a project for beginners
 - 📫 How to reach me: a32948.alunos.ipca.pt@gmail.com
-- 😄 Pronouns: He\Him
-- ⚡ Fun fact: xD
 
 <!---
 Paulo-HLima/Paulo-HLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
